@@ -1,2 +1,2 @@
 # Editais_teste
-TEste de aplicativo para análise de editais
+Teste de aplicativo para análise de editais
